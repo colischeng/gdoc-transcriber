@@ -1,0 +1,19 @@
+{
+  "name": "gdoc-transcriber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colischeng/gdoc-transcriber.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colischeng/gdoc-transcriber/issues"
+  },
+  "homepage": "https://github.com/colischeng/gdoc-transcriber#readme"
+}
